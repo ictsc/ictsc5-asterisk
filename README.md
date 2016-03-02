@@ -10,3 +10,6 @@ sudo python confgen.py ipphone.conf models.conf
 
  * `ipphone.conf` - MAC Address of IP Phone and Phone name etc.
  * `models.conf`  - map of model and firmware
+
+## References
+ * https://gist.github.com/icchyr/a677f0ad29145844420a
